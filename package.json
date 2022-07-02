@@ -1,0 +1,26 @@
+{
+  "name": "declarative-reducer",
+  "version": "1.0.0",
+  "description": "Define your reducer as you write configs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickmarca/declarative-reducer.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "functional",
+    "declarative",
+    "fsa"
+  ],
+  "author": "Nicholas Marcaccini Augusto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickmarca/declarative-reducer/issues"
+  },
+  "homepage": "https://github.com/nickmarca/declarative-reducer#readme"
+}
