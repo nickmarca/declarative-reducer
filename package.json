@@ -2,9 +2,9 @@
   "name": "declarative-reducer",
   "version": "1.0.0",
   "description": "Define your reducer as you write configs",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc --build"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/nickmarca/declarative-reducer/issues"
   },
-  "homepage": "https://github.com/nickmarca/declarative-reducer#readme"
+  "homepage": "https://github.com/nickmarca/declarative-reducer#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
